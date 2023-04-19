@@ -1,4 +1,4 @@
-package com.itheima;
+package com.itheima.arrays;
 
 public class Student{
    private String name;
